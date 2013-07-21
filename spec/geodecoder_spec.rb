@@ -16,10 +16,4 @@ describe 'GeoDecoder' do
       country = result.address_components[0]['long_name']
       country.should == "United States"
   end
-
-  it 'should list all cities of given Region' do
-    region = Geocoder.search("Österreich").first
-    cities = Ulticoder::GeoChain.list_all_regions(region)
-
-  end
 end

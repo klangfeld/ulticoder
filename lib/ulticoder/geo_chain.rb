@@ -7,9 +7,5 @@ module Ulticoder
 
   class GeoChain
 
-    def list_of_regions(country)
-
-    end
-
   end
 end

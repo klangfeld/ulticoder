@@ -1,5 +1,7 @@
 # Ulticoder
 
+[![Build Status](https://travis-ci.org/klangfeld/ulticoder.png?branch=master)](https://travis-ci.org/klangfeld/ulticoder)
+
 TODO: Write a gem description
 
 ## Installation

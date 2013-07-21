@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'ruby-geonames', git: "git@github.com:mauidude/ruby-geonames.git", branch: "master"
+gem 'ruby-geonames', git: "git@github.com:elecnix/ruby-geonames.git", branch: "master"
 
 group :test do
   gem "rake"

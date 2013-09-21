@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mail@mediatainment-productions.com"]
   spec.summary       = %q{Aggregation and expansion of geocoder and geonames gem}
   spec.description   = %q{}
-  spec.homepage      = "http://www.github.com/klangfeld/ulticoder"
+  spec.homepage      = "http://www.github.com/mediatainment/ulticoder"
   spec.license       = "MIT"
   spec.files         = `git ls-files`.split($/)
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
